@@ -41,7 +41,7 @@ function Navbar() {
               to="headerbg"
               style={{ cursor: "pointer" }}
             >
-              DarkLeas
+              密密供水设备
             </Link>
           </h1>
           <ul className="bar">
@@ -54,7 +54,7 @@ function Navbar() {
                 duration={1000}
                 to="headerbg"
               >
-                Home
+                主页
               </Link>
             </li>
             <li>
@@ -66,7 +66,7 @@ function Navbar() {
                 smooth={true}
                 duration={1000}
               >
-                Services
+                服务
               </Link>
             </li>
             <li>
@@ -78,7 +78,7 @@ function Navbar() {
                 duration={1000}
                 activeClass="active"
               >
-                About
+                关于
               </Link>
             </li>
             <li>
@@ -90,7 +90,7 @@ function Navbar() {
                 duration={1000}
                 activeClass="active"
               >
-                Contact
+                联系
               </Link>
             </li>
           </ul>
